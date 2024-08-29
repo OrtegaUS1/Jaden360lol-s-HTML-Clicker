@@ -26,6 +26,9 @@ var color = "green"
      if (Kolor==="joel"){
     color = "skyblue"    
     }
+    if (Kolor==="ethan"){
+    color = "orange"    
+    }
    recall()
   }
 function recall(){
@@ -83,6 +86,8 @@ audio.play();
 }
 }
 recall()
+
+
 
 
 recall()
